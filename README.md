@@ -46,6 +46,7 @@ Cảm ơn bây nha đã ủng hộ tau
 
 
 # Setup
+```sh
 git clone https://github.com/hoducminh12/ddos-web-si-u-b-
 cd ddos-web-si-u-b-
 python3 c2.py
