@@ -1,6 +1,6 @@
 ##############################
-# ZxCDDoS Made by zxcr9999   #
-# COPY = NIGGER              #
+# Minh Made by Tricker Minh   #
+# COPY = Ho Duc Minh              #
 ##############################
 
 import socket
