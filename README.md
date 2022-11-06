@@ -1,6 +1,6 @@
 <div align=center>
  
-# 🚀 ZxCDDoS: Release v1.4 - Free DDoS Panel 🚀
+# 🚀 Ho Duc Minh DDos Đẳng Cấp 🚀
 
 <p>
  <img src="https://img.shields.io/github.com/hoducminh12/?color=%23DF0067&style=for-the-badge"/> &nbsp;
@@ -37,8 +37,7 @@ https://i.ibb.co/R0NDXnc/photo-2022-05-23-03-57-37.jpg
 * [Contact](#Contact)
 
 # README ♥️
-Thank you for using, please help me press a star button, thank you very much.<br>
-One star = continuously updating multiple methods
+Cảm ơn bây nha đã ủng hộ tau
 
 # Info
 - [x] Open Source
