@@ -9,9 +9,9 @@
  
 </p>
 
-> Terminal only accepts ANSI color.<br>
-> Username: admin<br>
-> Password: admin<br>
+> Tài khoản và mật khẩu đây nha<br>
+> Tài khoản: admin<br>
+> Mật khẩu : admin<br>
 <p align="center">  <a href="https://t.me/realzer0hub"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
  
 ## Language</br>
@@ -26,16 +26,16 @@ Lô chào ae muốn ddos đúng ko
 ## Screenshot
 ![lk](https://i.ibb.co/LNkqyPR/bandicam-2022-04-12-22-11-34-101.jpg)
 
-# Tree
-* [Read now pls](#README)
-* [Info](#Info)
-* [Setup](#Setup)
-* [Credits](#Credits)
-* [T.O.S](#TOS)
-* [Contact](#Contact)
+# Lô
+Đây là tools bá nhất đó 
+
+
 
 # README ♥️
 Cảm ơn bây nha đã ủng hộ tau
+Cảm ơn bây nha đã ủng hộ tau
+Cảm ơn bây nha đã ủng hộ tau
+
 
 # Info
 - [x] Open Source
