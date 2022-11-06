@@ -20,10 +20,8 @@
  </div>
  
  ## Logs</br>
- - NEW OVH-BEAM METHODS!
- - Hi all, there are fools scam tool github for 20usd
-- Image scammer:
-https://i.ibb.co/R0NDXnc/photo-2022-05-23-03-57-37.jpg
+Lô chào ae muốn ddos đúng ko
+Đc cứ làm theo chỉ dẫn nhá!!!!!!!!!
  
 ## Screenshot
 ![lk](https://i.ibb.co/LNkqyPR/bandicam-2022-04-12-22-11-34-101.jpg)
@@ -52,18 +50,7 @@ git clone https://github.com/hoducminh12/ddos-web-si-u-b-
 cd ddos-web-si-u-b-
 python3 c2.py
 ```
-# Credits
-```sh
-Ho Duc Minh (Reworked CnC and added some methods .-.)
-SkyWtkhIsBack (Example Panel and L7 methods <3)
-Empfaked (Layer 7 methods <3)
-HyukIsBack (Layer 7 methods <3)
-im-federal (Layer 4 and AMP methods <3)
-R00tS3C (Layer 4 and AMP methods <3)
-forkyyy (LAYER 7 METHODS <3)
-Leeon123 (SPECIAL METHODS <3)
-TheSpeedX (HTTP, SOCKS5, SOCK4 proxies <3)
-```
+
 
 # TOS:
 ```sh
